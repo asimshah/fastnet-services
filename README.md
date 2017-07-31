@@ -1,5 +1,5 @@
 # fastnet-services
-This repo contains the only the one remaining old-style windows service: Fastnet.Timer.Services. This service is used to provide regular polling of a (local) webframe site.
+This repo contains the only the one remaining old-style windows service (based on topshelf, etc..): Fastnet.Timer.Services. This service is used to provide regular polling of a (local) webframe site.
 
 This service uses webframe-libraries and webframe-event-system.
 
